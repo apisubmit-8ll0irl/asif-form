@@ -4,12 +4,12 @@
     { "src": "*.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/asif", "dest": "/asif.js" },
-    { "src": "/zubair", "dest": "/zubair.js" },
-    { "src": "/zubairpass", "dest": "/zubairpass.js" },
+    { "src": "/rajab", "dest": "/rajab.js" },
+    { "src": "/abdullah", "dest": "/abdullah.js" },
+    { "src": "/rajabpass", "dest": "/rajabpass.js" },
     { "src": "/aziaz", "dest": "/aziaz.js" },
     { "src": "/rashid", "dest": "/rashid.js" },
-    { "src": "/rashidpass", "dest": "/rashidpass.js" },
+    { "src": "/abdullahpass", "dest": "/abdullahpass.js" },
     { "src": "/aziazpass", "dest": "/aziazpass.js" },
     { "src": "/asifpass", "dest": "/asifpass.js" }
   ]
