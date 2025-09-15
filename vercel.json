@@ -9,10 +9,10 @@
     { "src": "/rajab", "dest": "/rajab.js" },
     { "src": "/abdullah", "dest": "/abdullah.js" },
     { "src": "/rajabpass", "dest": "/rajabpass.js" },
-    { "src": "/aziaz", "dest": "/aziaz.js" },
+    { "src": "/bilal", "dest": "/bilal.js" },
     { "src": "/rashid", "dest": "/rashid.js" },
     { "src": "/abdullahpass", "dest": "/abdullahpass.js" },
-    { "src": "/aziazpass", "dest": "/aziazpass.js" },
+    { "src": "/bilalpass", "dest": "/bilalpass.js" },
     { "src": "/asifpass", "dest": "/asifpass.js" }
   ]
 }
