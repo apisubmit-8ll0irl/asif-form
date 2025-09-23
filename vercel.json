@@ -4,8 +4,8 @@
     { "src": "*.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/zubair", "dest": "/zubair.js" },
-    { "src": "/zubairpass", "dest": "/zubairpass.js" },
+    { "src": "/aziaz", "dest": "/aziaz.js" },
+    { "src": "/aziazpass", "dest": "/aziazpass.js" },
     { "src": "/rajab", "dest": "/rajab.js" },
     { "src": "/abdullah", "dest": "/abdullah.js" },
     { "src": "/rajabpass", "dest": "/rajabpass.js" },
